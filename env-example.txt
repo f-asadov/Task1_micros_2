@@ -1,0 +1,12 @@
+DB_HOST=localhost
+DB_PORT=5435
+DB_USERNAME=postgres
+DB_PASSWORD=password123
+DB_NAME=users_micros_2
+
+
+
+APP_PORT = 3001
+APP_NAME = user-service
+KAFKA_PORT = 9092
+APP_CONSUMER = user-consumer
